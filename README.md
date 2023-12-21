@@ -7,3 +7,7 @@ or
 ```
 npm install
 ```
+## Starting web app
+```
+npm run start
+```
